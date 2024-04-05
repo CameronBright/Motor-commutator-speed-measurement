@@ -1,0 +1,243 @@
+*************************************************************
+FileName = 2CurrentToHall(20240403).GBR
+AutoAperture = True
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D25
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D10
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GTP
+
+    Adding Layer      : TopPaste
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GKO
+
+    Adding Layer      : KeepOutLayer
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : 2CurrentToHall(20240403).GM13
+
+    Adding Layer      : Mechanical13
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 2CurrentToHall(20240403).GPT
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : 2CurrentToHall(20240403).GPB
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 2CurrentToHall(20240403).GD1
+
+    Adding Layer      : DrillDrawing
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 2CurrentToHall(20240403).GG1
+
+    Adding Layer      : DrillGuide
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D54
+*************************************************************
+

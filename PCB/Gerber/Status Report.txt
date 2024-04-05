@@ -1,0 +1,30 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for 2CurrentToHall(20240403).cam'
+at 16:08:37 on 5-Apr-2024 
+
+
+'Test Points Output 1'
+'Testpoint Report for 2CurrentToHall(20240403).tsp' generated
+
+'NC Drill Output 1'
+'2CurrentToHall(20240403).TXT' generated
+'2CurrentToHall(20240403).DRL' generated
+'2CurrentToHall(20240403).DRR' generated
+
+'Gerber Output 1'
+'2CurrentToHall(20240403).GTL' generated
+'2CurrentToHall(20240403).GBL' generated
+'2CurrentToHall(20240403).GTO' generated
+'2CurrentToHall(20240403).GTP' generated
+'2CurrentToHall(20240403).GTS' generated
+'2CurrentToHall(20240403).GBS' generated
+'2CurrentToHall(20240403).GKO' generated
+'2CurrentToHall(20240403).GM13' generated
+'2CurrentToHall(20240403).GPT' generated
+'2CurrentToHall(20240403).GPB' generated
+'2CurrentToHall(20240403).GD1' generated
+'2CurrentToHall(20240403).GG1' generated
+'2CurrentToHall(20240403).REP' generated
+
+
+Total number of generated files = 17
